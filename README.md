@@ -48,9 +48,7 @@ I enjoy turning ideas into functional products, from designing user interfaces a
 <p>
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
-  <img src="https://img.shields.io/badge/Firestore-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
-</p>
+  <img src="https://img.shields.io/badge/Firestore-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />   <img
 
 ### 🔧 Tools & Technologies
 
@@ -128,7 +126,7 @@ An IoT-based application designed to monitor food freshness using sensor data.
 
 **Technologies:**
 
-`ESP32` · `Python` · `Firebase` · `IoT` · `Sensors`
+`ESP32` · `Python` · `Firebase` · `IoT` · `Sensors` · `Kotlin`
 
 **Key features:**
 
@@ -140,30 +138,33 @@ An IoT-based application designed to monitor food freshness using sensor data.
 
 ---
 
-# 📚 Certifications & Learning
+# 📜 Certifications
 
-I'm continuously expanding my skills through professional courses and certifications.
+### 📱 Kotlin & Android: Start Developer in Android
 
-### Currently focused on:
+**Udemy · 2025**
 
-* 📱 Mobile Application Development
-* ⚙️ Backend & REST API Development
-* 🐍 Python & FastAPI
-* ☁️ Cloud Technologies
-* 🧪 Software Testing & QA
-* 🏗️ Software Architecture
-* 🔐 API Authentication & Security
+* Developed Android applications using **Kotlin**, Android Studio, and IntelliJ IDEA.
+* Built user interfaces using traditional **Android Views** and **Jetpack Compose**.
+* Worked with databases and network connections in Android applications.
+* Applied fundamental concepts of modern Android application development.
 
 ---
 
-# 📈 GitHub Activity
+### ⚡ FastAPI Complete: Professional APIs with Python
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Petterson04Petterson04&show_icons=true&hide_border=true&count_private=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Petterson04Petterson04&layout=compact&hide_border=true" height="165" />
-</p>
+**Udemy · 2026**
+
+* Developed professional **RESTful APIs** using FastAPI with data validation, structured responses, and automatic API documentation.
+* Implemented **JWT authentication, OAuth2, middleware, and access control**.
+* Integrated SQL databases using **SQLModel**, including CRUD operations and relational data models.
+* Built asynchronous applications and implemented automated testing with **Pytest**.
 
 ---
+
+### 📚 Current Courses
+
+* 📱 Mobile Development with React Native & Expo (in progress)
 
 # 🎯 What I'm Currently Working On
 
@@ -180,7 +181,10 @@ I'm continuously expanding my skills through professional courses and certificat
 
 <p>
   <a href="https://github.com/Petterson04Petterson04">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />   </a>   <a href="[www.linkedin.com/in/jorge-fernando-petterson-aguilera-b38231314](http://www.linkedin.com/in/jorge-fernando-petterson-aguilera-b38231314)">     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/jorge-fernando-petterson-aguilera-b38231314">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
 
