@@ -11,7 +11,7 @@ I enjoy turning ideas into functional products, from designing user interfaces a
 ## 🚀 About Me
 
 * 🎓 Software Development Engineer
-* 📱 Focused on **Mobile Development**
+* 📱 Focused on **Mobile and web Development**
 * ⚙️ Interested in **Backend Development & APIs**
 * 🧩 Experience building applications with **React Native, Expo, Kotlin and Jetpack Compose**
 * 🐍 Backend development with **Python, FastAPI, Node.js and Next.js**
