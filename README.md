@@ -107,6 +107,7 @@ A veterinary management mobile application designed to manage pets, appointments
 ## 💊 SilverCare
 
 A mobile application focused on medication management and reminders.
+🔗 **Repository:** [View on GitHub](https://github.com/KIHM-02/SilverCare)
 
 **Technologies:**
 
@@ -120,11 +121,15 @@ A mobile application focused on medication management and reminders.
 * ☁️ Cloud data storage
 * 📱 Modern Android interface
 
+**Link repos
+
 ---
 
 ## 🌱 FoodSafe
 
 An IoT-based application designed to monitor food freshness using sensor data.
+🔗 **Repository:** [View on GitHub](https://github.com/ClaudioLJ/FoodSafe)
+
 
 **Technologies:**
 
